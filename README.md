@@ -135,11 +135,6 @@ LLM-powered CRM automation module for healthcare professional interaction loggin
 
 ---
 
-## 🔹 Iris Flower Species Predictor
-
-Machine Learning dashboard using Streamlit for prediction & visualization.
-
----
 
 # 📈 GitHub Stats
 
