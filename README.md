@@ -139,18 +139,16 @@ LLM-powered CRM automation module for healthcare professional interaction loggin
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kareena0229&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kareena0229&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=tokyonight"/>
 </p>
-
----
 
 # 🌐 Connect With Me
 
