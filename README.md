@@ -136,31 +136,6 @@ LLM-powered CRM automation module for healthcare professional interaction loggin
 ---
 
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&langs_count=8&theme=radical"/>
-</p>
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/kareena-kumari0229">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-
-<a href="https://github.com/kareena0229">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
-
-</p>
-
----
-
 # 🏆 Achievements
 
 - 🚀 AI Intern @ Infosys Springboard
