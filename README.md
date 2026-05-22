@@ -16,7 +16,7 @@ Building AI-powered systems, ETL pipelines, automation workflows, and data-drive
 
 # 🚀 About Me
 
-- 🎓 B.Tech CSE Student at Dumka Engineering College
+- 🎓 B.Tech CSE Student at Dumka Engineering College [2023 - 2027]
 - 🤖 Passionate about AI, Machine Learning & Data Analytics
 - 📊 Building real-world ETL pipelines & automation systems
 - 💻 Open Source Contributor @ GSSoC 2026
