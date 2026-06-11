@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi 👋, I'm Kareena Kumari
-
-### 💜 Frontend Developer | Open Source Contributor | Women in Tech
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Building+Creative+Web+Experiences;Open+Source+Contributor;Frontend+%2B+AI+Developer;Passionate+about+Modern+UI%2FUX;Always+Learning+New+Things+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=C084FC&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,+I'm+Kareena+Kumari;Frontend+%2B+AI+Developer;Open+Source+Contributor+💜;Women+in+Tech+🚀;Building+Creative+Digital+Experiences+✨" />
 
 <br>
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320"/>
+
+<br><br>
+
+### 💜 Frontend Developer | Open Source Contributor | Women in Tech
 
 <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
@@ -40,7 +42,6 @@ currently_working_on:
 fun_fact: "Turning ideas into interactive experiences 💜"
 ```
 
----
 
 # 🛠️ Tech Stack
 
