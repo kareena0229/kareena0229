@@ -8,8 +8,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
+<img align="right" alt="Woman Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nycjk2ZGlzb2swcXZlb3ByNW45dXUxcTgwOGN3d2Uybm15NWNtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif">
 💻 Open Source Contributor  
 🚀 GSSoC Contributor  
 🌸 Women in Tech  
