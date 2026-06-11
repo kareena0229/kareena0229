@@ -20,28 +20,28 @@
 
 ```yaml
 name: Kareena Kumari
-role: Frontend + AI Developer
-location: Bihar, India
+located_in: Bihar, India
 
-currently_learning:
+current_focus:
   - Full Stack Development
   - AI & Automation
-  - Data Structures & Algorithms
+  - Open Source Contributions
 
 interests:
-  - Open Source
   - Modern UI/UX
   - Creative Coding
+  - Frontend Development
   - Women in Tech
 
-currently_working_on:
-  - Open Source Contributions
-  - AI Projects
-  - Developer Portfolio
+currently_learning:
+  - MERN Stack
+  - DSA
+  - AI Integration
 
 fun_fact: "Turning ideas into interactive experiences 💜"
 ```
 
+---
 
 # 🛠️ Tech Stack
 
@@ -51,39 +51,15 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 
 </div>
 
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:kareenan029@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/kareena0229">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,python,cpp,c,java,mongodb,mysql,firebase,git,github,vscode" />
-</p>
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kareena0229&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kareena0229&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -95,66 +71,40 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 
 </div>
 
-
-
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kareena0229&theme=radical&hide_border=true&border_radius=20"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=radical&hide_border=true&border_radius=20"/>
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true&radius=16"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kareena0229&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-</p>
+<div align="center">
 
+<a href="https://github.com/kareena0229">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
----
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-# 🏆 GitHub Trophies
+<a href="mailto:kareenan029@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-<p align="center">
-<img src="![alt text](image-2.png)"/>
-<img src="![alt text](image-3.png)"/>
-</p>
+</div>
 
-
-
----
-
-# ✨ Quote
-
-> “She believed she could, so she coded it.” 💜
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
-
----
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=120&section=footer"/>
+### ✨ "She believed she could, so she coded it." 💜
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:FF69B4&height=120&section=footer"/>
 
 </div>
