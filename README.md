@@ -1,52 +1,54 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kareena+Kumari;Open+Source+Contributor+💜;Frontend+%2B+AI+Developer;Women+in+Tech+🚀;Building+Creative+Tech+Experiences+✨" />
-</h1>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Kareena%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320"/>
-</div>
-
-<h3 align="center">
-💜 AI Developer & GSSoC 2026 Contributor | <br>
-🚀  Building AI/ML Projects & Workflows| Women in Tech <br> Building impactful and creative digital experiences
-</h3>
-
----
-
-# 🌸 About Me
-
 <div align="center">
 
-✨ Passionate about building creative and impactful digital experiences ✨
+# Hi 👋, I'm Kareena Kumari
 
-</div>
+### 💜 Frontend Developer | Open Source Contributor | Women in Tech
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Building+Creative+Web+Experiences;Open+Source+Contributor;Frontend+%2B+AI+Developer;Passionate+about+Modern+UI%2FUX;Always+Learning+New+Things+✨" />
 
 <br>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+<img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
-* 💻 Open Source Contributor
-* 🚀 Exploring AI + Full Stack Development
-* 🎨 Love modern UI/UX & animations
-* 🌱 Improving DSA & development skills
-* ⚡ Building projects that solve real problems
-* 💜 Women in Tech Advocate
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
+
+# ⚡ About Me
+
+```yaml
+name: Kareena Kumari
+role: Frontend + AI Developer
+location: Bihar, India
+
+currently_learning:
+  - Full Stack Development
+  - AI & Automation
+  - Data Structures & Algorithms
+
+interests:
+  - Open Source
+  - Modern UI/UX
+  - Creative Coding
+  - Women in Tech
+
+currently_working_on:
+  - Open Source Contributions
+  - AI Projects
+  - Developer Portfolio
+
+fun_fact: "Turning ideas into interactive experiences 💜"
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,python,cpp,c,java,mongodb,mysql,firebase,git,github,vscode" />
+
+</div>
 
 # 🌐 Connect With Me
 
@@ -77,6 +79,21 @@
 # 📊 GitHub Analytics
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kareena0229&theme=radical&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
 
 
 
