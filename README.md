@@ -116,3 +116,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/kareena0229/kareena0229/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
