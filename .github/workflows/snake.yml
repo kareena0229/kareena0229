@@ -9,7 +9,7 @@ jobs:
 build:
 runs-on: ubuntu-latest
 
-```
+
 permissions:
   contents: write
 
@@ -23,4 +23,3 @@ steps:
     with:
       branch: output
       folder: dist
-```
