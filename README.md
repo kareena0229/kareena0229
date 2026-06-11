@@ -8,13 +8,50 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Woman Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nycjk2ZGlzb2swcXZlb3ByNW45dXUxcTgwOGN3d2Uybm15NWNtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif">
-💻 Open Source Contributor  
-🚀 GSSoC Contributor  
-🌸 Women in Tech  
-🤖 Exploring AI + Full Stack Development  
-🎯 Passionate about building impactful projects  
-✨ Love clean UI, animations & creative coding
+<!-- <img align="right" alt="Woman Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nycjk2ZGlzb2swcXZlb3ByNW45dXUxcTgwOGN3d2Uybm15NWNtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif"> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kareena+Kumari;Open+Source+Contributor+💜;Frontend+%2B+AI+Developer;Women+in+Tech+🚀;Building+Creative+Tech+Experiences+✨" />
+</h1>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Kareena%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320"/>
+
+</div>
+
+<h3 align="center">
+💜 Passionate Frontend & AI Developer <br>
+🚀 Open Source Contributor | Women in Tech <br>
+✨ Building impactful and creative digital experiences
+</h3>
+
+---
+
+## 🌸 About Me
+
+* 💻 Contributing to Open Source Projects
+* 🚀 Exploring Full Stack & AI Development
+* 🎨 Love building modern UI/UX experiences
+* 🌱 Currently improving DSA & Development Skills
+* ⚡ Turning ideas into interactive products
+* 💜 Advocating creativity through technology
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
 
 ---
 
