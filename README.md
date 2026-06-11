@@ -9,9 +9,8 @@
 </div>
 
 <h3 align="center">
-💜 Passionate Frontend & AI Developer <br>
-🚀 Open Source Contributor | Women in Tech <br>
-✨ Building impactful and creative digital experiences
+💜 AI Developer & GSSoC 2026 Contributor | <br>
+🚀  Building AI/ML Projects & Workflows| Women in Tech <br> Building impactful and creative digital experiences
 </h3>
 
 ---
