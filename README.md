@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-<!-- <img align="right" alt="Woman Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nycjk2ZGlzb2swcXZlb3ByNW45dXUxcTgwOGN3d2Uybm15NWNtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif"> -->
+<img align="right" alt="Woman Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nycjk2ZGlzb2swcXZlb3ByNW45dXUxcTgwOGN3d2Uybm15NWNtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQW9Wx6C4OX0mbzPvj/giphy.gif">
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kareena+Kumari;Open+Source+Contributor+💜;Frontend+%2B+AI+Developer;Women+in+Tech+🚀;Building+Creative+Tech+Experiences+✨" />
 </h1>
