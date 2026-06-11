@@ -18,14 +18,34 @@
 
 # 🌸 About Me
 
-<img align="right" alt="Woman Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<div align="center">
 
-* 💻 Contributing to Open Source Projects
-* 🚀 Exploring Full Stack & AI Development
-* 🎨 Love building modern UI/UX experiences
-* 🌱 Currently improving DSA & Development Skills
-* ⚡ Turning ideas into interactive products
-* 💜 Advocating creativity through technology
+✨ Passionate about building creative and impactful digital experiences ✨
+
+</div>
+
+<br>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+* 💻 Open Source Contributor
+* 🚀 Exploring AI + Full Stack Development
+* 🎨 Love modern UI/UX & animations
+* 🌱 Improving DSA & development skills
+* ⚡ Building projects that solve real problems
+* 💜 Women in Tech Advocate
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
