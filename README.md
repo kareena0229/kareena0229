@@ -111,13 +111,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kareena0229&theme=radical&hide_border=true"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -128,8 +121,11 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kareena0229&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="![alt text](image-2.png)"/>
+<img src="![alt text](image-3.png)"/>
 </p>
+
+
 
 ---
 
