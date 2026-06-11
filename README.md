@@ -125,12 +125,6 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 <img src="https://github-profile-trophy.vercel.app/?username=kareena0229&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 </p>
 
----
-
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night"/>
 
 ---
 
