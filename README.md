@@ -75,12 +75,38 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true&border_radius=20&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kareena0229&theme=radical&hide_border=true&border_radius=20"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=radical&hide_border=true&border_radius=20"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true&radius=16"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=radical&hide_border=true"/>
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kareena0229&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 </p>
 
 ---
