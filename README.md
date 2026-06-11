@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true&border_radius=20&rank_icon=github"/>
+
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kareena0229&theme=radical&hide_border=true&border_radius=20"/>
 
