@@ -118,9 +118,10 @@
 </p>
 
 ---
+---
 
-# 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/kareena0229/kareena0229/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=120&section=footer"/>
+
+</div>
