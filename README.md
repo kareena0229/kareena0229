@@ -103,7 +103,7 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 
 <div align="center">
 
-### ✨ "She believed she could, so she coded it." 💜
+### ✨"In theory, theory and practice are the same. In practice, they aren't. (Especially with neural nets.)"💜
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:FF69B4&height=120&section=footer"/>
 
