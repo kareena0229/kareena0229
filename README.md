@@ -8,7 +8,7 @@
 
 <br><br>
 
-### 💜 Frontend Developer | Open Source Contributor | Women in Tech
+### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor
 
 <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
