@@ -8,7 +8,7 @@
 
 <br><br>
 
-### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor
+### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer
 
 <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
@@ -103,7 +103,7 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 
 <div align="center">
 
-### ✨"In theory, theory and practice are the same. In practice, they aren't. (Especially with neural nets.)"💜
+### ✨"In theory, theory and practice are the same. In practice, they aren't. (Especially with neural nets.)" 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:FF69B4&height=120&section=footer"/>
 
