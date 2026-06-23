@@ -8,7 +8,7 @@
 
 <br><br>
 
-### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer
+### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer 
 
 <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
