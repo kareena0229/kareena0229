@@ -8,7 +8,7 @@
 
 <br><br>
 
-### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer 
+### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer | Aspiring Researcher
 
 <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
@@ -37,6 +37,7 @@ currently_learning:
   - MERN Stack
   - DSA
   - AI Integration
+  - Open Source
 
 fun_fact: "Turning ideas into interactive experiences 💜"
 ```
