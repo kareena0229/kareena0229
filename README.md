@@ -8,7 +8,7 @@
 
 <br><br>
 
-### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer | Aspiring Researcher
+### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer | Aspiring Researcher 
 
 <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
@@ -25,7 +25,7 @@ located_in: Bihar, India
 current_focus:
   - Full Stack Development
   - AI & Automation
-  - Open Source Contributions
+  - Open Source Contributions 
 
 interests:
   - Modern UI/UX
@@ -38,6 +38,7 @@ currently_learning:
   - DSA
   - AI Integration
   - Open Source
+  - CS Fundamentals
 
 fun_fact: "Turning ideas into interactive experiences 💜"
 ```
