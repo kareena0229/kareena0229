@@ -58,8 +58,8 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=kareena0229&theme=radical&hide_border=true" height="170"/>
-</p>
+  <!-- <img src="https://streak-stats.demolab.com/?user=kareena0229&theme=radical&hide_border=true" height="170"/>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
