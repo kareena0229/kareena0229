@@ -8,44 +8,40 @@
 
 <br><br>
 
-### 💜 Full stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer | Aspiring Researcher 
+### 💜 Full Stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer | Aspiring Researcher
 
 <img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
 
 </div>
 
----
+<br>
 
-# ⚡ About Me
+## ⚡ About Me
 
 ```yaml
 name: Kareena Kumari
-located_in: Bihar, India
-
+located_in: Jharkhand, India
 current_focus:
   - Full Stack Development
   - AI & Automation
-  - Open Source Contributions 
-
+  - Open Source Contributions
 interests:
   - Modern UI/UX
   - Creative Coding
   - Frontend Development
   - Women in Tech
-
 currently_learning:
   - MERN Stack
   - DSA
   - AI Integration
   - Open Source
   - CS Fundamentals
-
 fun_fact: "Turning ideas into interactive experiences 💜"
 ```
 
----
+<br>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,9 +49,9 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 
 </div>
 
----
+<br>
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
@@ -64,40 +60,34 @@ fun_fact: "Turning ideas into interactive experiences 💜"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p> 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br>
 
-# 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<br>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/kareena0229">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:kareenan029@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<a href="https://github.com/kareena0229"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/kareena-kumari0229"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:kareenaan029@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://kareena0229.github.io"><img src="https://skillicons.dev/icons?i=html" /></a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ✨"In theory, theory and practice are the same. In practice, they aren't. (Especially with neural nets.)" 
+### ✨ "In theory, theory and practice are the same. In practice, they aren't. (Especially with neural nets.)"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:FF69B4&height=120&section=footer"/>
 
