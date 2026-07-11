@@ -20,7 +20,7 @@
 
 ```yaml
 name: Kareena Kumari
-located_in: Jharkhand, India
+located_in: Patna, India
 current_focus:
   - Full Stack Development
   - AI & Automation
