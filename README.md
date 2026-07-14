@@ -26,8 +26,8 @@ current_focus:
   - AI & Automation
   - Open Source Contributions
 interests:
-  - Modern UI/UX
-  - Creative Coding
+  - Modern AI/ML Projects
+  - Problem Solving
   - Frontend Development
   - Women in Tech
 currently_learning:
