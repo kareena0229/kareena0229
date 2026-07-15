@@ -36,12 +36,12 @@ learning models with practical backend systems.
 
 ## Tech Stack
 
-**Languages:** Python, Java, C++, SQL, JavaScript  
-**AI/ML:** Machine Learning, NLP, Computer Vision, RAG, LLMs, YOLOv8, OpenCV  
-**Backend:** FastAPI, Flask, REST APIs  
-**Databases:** PostgreSQL, MySQL  
-**Data & BI:** Pandas, NumPy, Microsoft Excel, Power BI  
-**Tools & Cloud:** Git, GitHub, Docker, Linux, n8n, AWS
+Languages: Python, Java, C++, SQL, JavaScript  
+AI/ML: Machine Learning, NLP, Computer Vision, RAG, LLMs, YOLOv8, OpenCV  
+Backend: FastAPI, Flask, REST APIs  
+Databases: PostgreSQL, MySQL  
+Data & BI: Pandas, NumPy, Microsoft Excel, Power BI  
+Tools & Cloud: Git, GitHub, Docker, Linux, n8n, AWS
 
 fun_fact: "Turning ideas into interactive experiences 💜"
 ```
