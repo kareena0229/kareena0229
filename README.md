@@ -116,6 +116,28 @@ Contributed to multiple open-source projects through feature development, bug fi
 - 📢 Documentation & Social Media Lead at E-Cell, Dumka Engineering College
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&hide_border=true" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kareena0229&hide_border=true" alt="Kareena's GitHub Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&hide_border=true" alt="Kareena's Contribution Graph" />
+</p>
+
+---
 
 ## 📚 Currently Learning
 
