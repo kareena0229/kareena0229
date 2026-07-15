@@ -18,7 +18,7 @@
 
 ## ⚡ About Me
 
-```yaml
+
 # Hi, I'm Kareena Kumari 👋
 
 Computer Science undergraduate focused on AI/ML, Computer Vision, NLP, 
@@ -44,7 +44,7 @@ Data & BI: Pandas, NumPy, Microsoft Excel, Power BI
 Tools & Cloud: Git, GitHub, Docker, Linux, n8n, AWS
 
 fun_fact: "Turning ideas into interactive experiences 💜"
-```
+
 
 <br>
 
