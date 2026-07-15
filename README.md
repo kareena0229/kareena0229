@@ -24,7 +24,9 @@ located_in: Patna, India
 current_focus:
   - Full Stack Development
   - AI & Automation
+  - AI/ML Research Studies
   - Open Source Contributions
+
 interests:
   - Modern AI/ML Projects
   - Problem Solving
