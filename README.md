@@ -1,95 +1,140 @@
-<div align="center">
+# Hi, I'm Kareena Kumari 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=C084FC&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,+I'm+Kareena+Kumari;Frontend+%2B+AI+Developer;Open+Source+Contributor+💜;Women+in+Tech+🚀;Building+Creative+Digital+Experiences+✨" />
+### AI/ML Enthusiast | Backend Developer | Open Source Contributor
 
-<br>
+I'm a Computer Science Engineering undergraduate passionate about building practical applications using **Artificial Intelligence, Machine Learning, Computer Vision, NLP, Generative AI, and Backend Development**.
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320"/>
+I enjoy working on end-to-end projects that combine intelligent models with scalable backend systems and real-world use cases.
 
-<br><br>
+---
 
-### 💜 Full Stack Developer | Open Source Contributor | GSSoC 2026 Contributor | AI/ML Engineer | Aspiring Researcher
+## 👩‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=C084FC&style=flat" />
+- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 🤖 Interested in AI/ML, Generative AI, Computer Vision, and NLP
+- ⚖️ Currently building **ChargeSheet AI Assistant**, an AI-assisted legal document analysis platform
+- 🌱 Exploring LLMs, RAG pipelines, LangChain, and production-ready AI systems
+- 💻 Solved 437+ DSA problems on LeetCode
+- 🌍 Open-source contributor at GSSoC 2026
+- 🏆 Secured Global Rank #235 among 43,500+ GSSoC participants
+- 🔧 Interested in AI/ML and Software Engineering internship opportunities
 
-</div>
+---
 
-<br>
+## 🚀 Featured Projects
 
+### ⚖️ ChargeSheet AI Assistant
 
-## ⚡ About Me
+An AI-assisted legal document analysis platform designed to extract and structure information from police chargesheets and legal case records.
 
-```yaml
-name: Kareena Kumari
-located_in: Jharkhand, India
-current_focus:
-  - Full Stack Development
-  - AI & Automation
-  - Open Source Contributions
-interests:
-  - Modern UI/UX
-  - Creative Coding
-  - Frontend Development
-  - Women in Tech
-currently_learning:
-  - MERN Stack
-  - DSA
-  - AI Integration
-  - Open Source
-  - CS Fundamentals
-fun_fact: "Turning ideas into interactive experiences 💜"
-```
+**Tech Stack:** Python, FastAPI, NLP, OCR, RAG, LLMs
 
-<br>
+**Key Features:**
+- OCR-based legal document extraction
+- Named Entity Recognition
+- Multilingual NLP processing
+- Retrieval-Augmented Generation
+- FastAPI-based backend architecture
+- Structured legal information extraction
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+### 👁️ VisionSafe AI Security System
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,python,cpp,c,java,mongodb,mysql,firebase,git,github,vscode" />
+A computer vision-based public monitoring system designed to analyze video streams and identify human activities.
 
-</div>
+**Tech Stack:** Python, YOLOv8, OpenCV, MediaPipe, FastAPI
 
-<br>
+**Key Features:**
+- Video-based activity detection
+- Computer vision inference pipeline
+- Safe and potentially unsafe activity identification
+- Automated video processing
+- REST API integration
 
-## 📊 GitHub Analytics
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=kareena0229&theme=radical&hide_border=true" height="170"/>
-</p>
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p>
+### Languages
 
-<br>
+`Python` `Java` `C++` `SQL` `JavaScript`
 
-## 📈 Contribution Graph
+### AI / Machine Learning
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true"/>
-</p>
+`Machine Learning` `Computer Vision` `NLP` `YOLOv8` `OpenCV` `MediaPipe`  
+`spaCy` `Transformers` `RAG` `OCR` `LLMs` `LangChain` `Hugging Face`
 
-<br>
+### Backend & Databases
 
-## 🌐 Connect With Me
+`FastAPI` `Flask` `REST APIs` `PostgreSQL` `MySQL`
 
-<div align="center">
+### Data & Analytics
 
-<a href="https://github.com/kareena0229"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://linkedin.com/in/kareena-kumari0229"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:kareenaan029@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://kareena0229.github.io"><img src="https://skillicons.dev/icons?i=html" /></a>
+`Microsoft Excel` `Power BI` `Pandas` `NumPy`
 
-</div>
+### Tools & Cloud
 
-<br>
+`Git` `GitHub` `Docker` `Linux` `n8n` `AWS` `Streamlit`
 
-<div align="center">
+---
 
-### ✨ "In theory, theory and practice are relatably the same. In practice, they aren't. (Especially with neural nets.)"
+## 💼 Experience
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:FF69B4&height=120&section=footer"/>
+### AI Intern — Infosys Springboard
 
-</div>
+Worked on the development of **VisionSafe**, an AI-based public monitoring system using YOLOv8, OpenCV, and MediaPipe.
+
+- Developed computer vision inference pipelines
+- Worked on data preprocessing and model evaluation
+- Integrated AI models with backend services
+- Built FastAPI-based REST APIs
+- Implemented automated video analysis workflows
+
+### Workflow Automation Intern — ExcelR
+
+Worked on designing and implementing automated workflows using n8n.
+
+- Built workflow automations using n8n
+- Integrated third-party REST APIs
+- Implemented webhook-based automation
+- Created automated data synchronization workflows
+
+### Open Source Contributor — GSSoC 2026
+
+Contributed to multiple open-source projects through feature development, bug fixes, issue resolution, and collaborative Git-based workflows.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Global Rank **#235** among **43,500+ participants** in GSSoC 2026
+- 💻 Solved **437+ DSA problems** on LeetCode
+- 📈 Achieved a **LeetCode Contest Rating of 1510**
+- 🎓 Completed the **Infosys Springboard AI Internship**
+- 🚀 Qualified for the **NEC Basic Track** organized by E-Cell IIT Bombay
+- 📢 Documentation & Social Media Lead at E-Cell, Dumka Engineering College
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Retrieval-Augmented Generation
+- Large Language Model applications
+- AI Agent development
+- Backend system design
+- Cloud deployment
+- Data Structures and Algorithms
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: linkedin.com/in/kareena-k-a9b054247
+- GitHub: github.com/kareena0229
+- LeetCode: leetcode.com/u/Kareena_0209
+- Email: kareenaan029@gmail.com
+
+---
+
+### 💡 Building intelligent systems, contributing to open source, and learning one project at a time.
