@@ -19,25 +19,30 @@
 ## ⚡ About Me
 
 ```yaml
-name: Kareena Kumari
-located_in: Patna, India
-current_focus:
-  - Full Stack Development
-  - AI & Automation
-  - AI/ML Research Studies
-  - Open Source Contributions
+# Hi, I'm Kareena Kumari 👋
 
-interests:
-  - Modern AI/ML Projects
-  - Problem Solving
-  - Frontend Development
-  - Women in Tech
-currently_learning:
-  - MERN Stack
-  - DSA
-  - AI Integration
-  - Open Source
-  - CS Fundamentals
+Computer Science undergraduate focused on AI/ML, Computer Vision, NLP, 
+Generative AI, and Backend Development.
+
+I enjoy building end-to-end intelligent applications that combine machine 
+learning models with practical backend systems.
+
+## Currently Working On
+
+- ⚖️ ChargeSheet AI Assistant — Legal document analysis using OCR, NLP, RAG, and FastAPI
+- 🤖 AI/ML and Generative AI applications
+- 🌱 Open-source contributions through GSSoC 2026
+- 💻 Data Structures and Algorithms
+
+## Tech Stack
+
+**Languages:** Python, Java, C++, SQL, JavaScript  
+**AI/ML:** Machine Learning, NLP, Computer Vision, RAG, LLMs, YOLOv8, OpenCV  
+**Backend:** FastAPI, Flask, REST APIs  
+**Databases:** PostgreSQL, MySQL  
+**Data & BI:** Pandas, NumPy, Microsoft Excel, Power BI  
+**Tools & Cloud:** Git, GitHub, Docker, Linux, n8n, AWS
+
 fun_fact: "Turning ideas into interactive experiences 💜"
 ```
 
