@@ -102,7 +102,7 @@ Worked on designing and implementing automated workflows using n8n.
 
 ### Open Source Contributor — GSSoC 2026
 
-Contributed to multiple open-source projects through feature development, bug fixes, issue resolution, and collaborative Git-based workflows.
+Contributed to multiple open-source projects through feature development, bug fixes, issue resolution, and collaborative Git-based workflows. Ranked under 300 in 43k+ participants.
 
 ---
 
