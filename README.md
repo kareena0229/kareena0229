@@ -109,7 +109,7 @@ Contributed to multiple open-source projects through feature development, bug fi
 ## 🏆 Achievements
 
 - 🥇 Global Rank **#235** among **43,500+ participants** in GSSoC 2026
-- 💻 Solved **437+ DSA problems** on LeetCode
+- 💻 Solved **300+ DSA problems** on LeetCode
 - 📈 Achieved a **LeetCode Contest Rating of 1510**
 - 🎓 Completed the **Infosys Springboard AI Internship**
 - 🚀 Qualified for the **NEC Basic Track** organized by E-Cell IIT Bombay
