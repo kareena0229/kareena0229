@@ -12,7 +12,7 @@ I enjoy working on end-to-end projects that combine intelligent models with scal
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 🤖 Interested in AI/ML, Generative AI, Computer Vision, and NLP
-- ⚖️ Currently building **ChargeSheet AI Assistant**, an AI-assisted legal document analysis platform
+- ⚖️ Currently building **ChargeSheet AI Assistant**, an AI-assisted legal document RAG Analysis platform
 - 🌱 Exploring LLMs, RAG pipelines, LangChain, and production-ready AI systems
 - 💻 Solved 400+ DSA problems on LeetCode & GFG
 - 🌍 Open-source contributor at GSSoC 2026
