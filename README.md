@@ -100,7 +100,7 @@ Worked on designing and implementing automated workflows using n8n.
 - Implemented webhook-based automation
 - Created automated data synchronization workflows
 
-### Open Source Contributor — GSSoC 2026
+### Open Source Contributor — GSSoC 2026 (May 2026 - Aug 2026)
 
 Contributed to multiple open-source projects through feature development, bug fixes, issue resolution, and collaborative Git-based workflows. Ranked under 300 in 43k+ participants.
 
