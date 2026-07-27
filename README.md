@@ -44,7 +44,7 @@ Building intelligent systems using Computer Vision, NLP, Generative AI and scala
 - 💻 Solved 400+ DSA problems on LeetCode & GFG
 - 🌍 Open-source contributor at GSSoC 2026
 - 🏆 Secured Global Rank #235 among 43,500+ GSSoC participants
-- 🔧 Interested in AI/ML and Software Engineering internship opportunities
+- 🔧 Interested in AI/ML and Software Engineering internship and full time opportunities 
 =======
 I'm a Computer Science Engineering undergraduate passionate about building practical AI applications that solve real-world problems.
 
