@@ -36,7 +36,7 @@ Building intelligent systems using Computer Vision, NLP, Generative AI and scala
 
 # 💫 About Me
 
-<<<<<<< HEAD
+
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 🤖 Interested in AI/ML, Generative AI, Computer Vision, and NLP
 - ⚖️ Currently building **ChargeSheet AI Assistant**, an AI-assisted legal document RAG Analysis platform
@@ -51,7 +51,7 @@ I'm a Computer Science Engineering undergraduate passionate about building pract
 My interests span across **Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, Retrieval-Augmented Generation (RAG), Backend Engineering, and Open Source.**
 
 I enjoy taking ideas from research to deployment by combining intelligent models with scalable backend systems.
->>>>>>> dab96c3 (Revamp GitHub profile README)
+
 
 ---
 
@@ -133,7 +133,6 @@ Contributed to multiple open-source projects through feature development, bug fi
 - Performance Tracking
 - Interactive Dashboards
 - Data Visualization
->>>>>>> dab96c3 (Revamp GitHub profile README)
 
 ---
 
@@ -238,7 +237,6 @@ Contributed to multiple open-source repositories by developing new features, fix
 - 📈 LeetCode Contest Rating **1510**
 - 🎓 Successfully completed Infosys Springboard AI Internship
 - 🚀 Qualified for **NEC Basic Track** organized by E-Cell IIT Bombay
->>>>>>> dab96c3 (Revamp GitHub profile README)
 - 📢 Documentation & Social Media Lead at E-Cell, Dumka Engineering College
 - 🏅 GitHub Pull Shark Achievement
 - ⚡ GitHub Quickdraw Achievement
