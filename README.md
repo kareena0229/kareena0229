@@ -62,7 +62,7 @@ I enjoy taking ideas from research to deployment by combining intelligent models
 - ⚖️ Building **ChargeSheet AI Assistant** — AI-assisted Legal Document Analysis Platform
 - 🌱 Exploring LLMs, RAG Pipelines, LangChain & AI Agents
 - 💻 Solved **400+ DSA problems**
-- 🌍 Global Rank **#235** among **43,500+** GSSoC 2026 participants
+- 🌍 Been Global Rank **#235** among **43,500+** GSSoC 2026 participants
 - 🚀 Open to AI/ML & Software Engineering opportunities
 
 ---
