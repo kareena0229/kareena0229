@@ -38,7 +38,7 @@ Building intelligent systems using Computer Vision, NLP, Generative AI and scala
 
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
-- 🤖 Interested in AI/ML, Generative AI, Computer Vision, and NLP
+- 🤖 Interested in AI/ML, Generative AI, Computer Vision, and NLP, Automation pipelines.
 - ⚖️ Currently building **ChargeSheet AI Assistant**, an AI-assisted legal document RAG Analysis platform
 - 🌱 Exploring LLMs, RAG pipelines, LangChain, and production-ready AI systems
 - 💻 Solved 400+ DSA problems on LeetCode & GFG
