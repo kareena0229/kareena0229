@@ -46,7 +46,7 @@ Building intelligent systems using Computer Vision, NLP, Generative AI and scala
 - 🏆 Secured Global Rank #235 among 43,500+ GSSoC participants
 - 🔧 Interested in AI/ML and Software Engineering internship and full time opportunities 
 =======
-I'm a Computer Science Engineering undergraduate passionate about building practical AI applications that solve real-world problems.
+I'm a Computer Science Engineering undergrad passionate about building practical AI applications that solve real-world problems.
 
 My interests span across **Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, Retrieval-Augmented Generation (RAG), Backend Engineering, and Open Source.**
 
