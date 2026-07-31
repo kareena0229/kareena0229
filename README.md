@@ -117,7 +117,7 @@ Python • Pandas • Jupyter Notebook • Chart.js
 
 ### Features
 
-<<<<<<< HEAD
+
 Worked on designing and implementing automated workflows using n8n.
 
 - Built workflow automations using n8n
