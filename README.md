@@ -128,7 +128,7 @@ Worked on designing and implementing automated workflows using n8n.
 ### Open Source Contributor — GSSoC 2026 (May 2026 - Aug 2026)
 
 Contributed to multiple open-source projects through feature development, bug fixes, issue resolution, and collaborative Git-based workflows. Ranked under 300 in 43k+ participants.
-=======
+
 - Agent Quality Analytics
 - Performance Tracking
 - Interactive Dashboards
@@ -138,13 +138,14 @@ Contributed to multiple open-source projects through feature development, bug fi
 
 # 🛠 Tech Stack
 
-<<<<<<< HEAD
+
 - 🥇 Global Rank **#235** among **43,500+ participants** in GSSoC 2026
 - 💻 Solved **300+ DSA problems** on LeetCode
 - 📈 Achieved a **LeetCode Contest Rating of 1510**
 - 🎓 Completed the **Infosys Springboard AI Internship**
 - 🚀 Qualified for the **NEC Basic Track** organized by E-Cell IIT Bombay
-=======
+
+---
 ## Languages
 
 <p>
