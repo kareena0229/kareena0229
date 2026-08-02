@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareena Kumari</h1> 
 
 <h3 align="center">
-AI/ML Developer • Backend Engineer • Open Source Contributor
+AI/ML Developer • Backend Engineer • Open Source Contributor 
 </h3>
 
 <p align="center">
@@ -58,7 +58,7 @@ I enjoy taking ideas from research to deployment by combining intelligent models
 ## 👩‍💻 Quick Facts
 
 - 🎓 B.Tech Computer Science Engineering (Class of 2027)
-- 🤖 AI/ML | Computer Vision | NLP | Backend Development
+- 🤖 AI/ML | Computer Vision | NLP | Backend Development | Content Creation
 - ⚖️ Building **ChargeSheet AI Assistant** — AI-assisted Legal Document Analysis Platform
 - 🌱 Exploring LLMs, RAG Pipelines, LangChain & AI Agents
 - 💻 Solved **400+ DSA problems**
