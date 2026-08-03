@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Kareena Kumari</h1> 
+<h1 align="center">
+Hi 👋, I'm Kareena Kumari
+</h1>
 
 <h3 align="center">
 AI/ML Developer • Backend Engineer • Open Source Contributor 
 </h3>
 
 <p align="center">
-Building intelligent systems using Computer Vision, NLP, Generative AI and scalable backend technologies.
+Building production-ready AI applications using
+<b>Computer Vision</b>,
+<b>Natural Language Processing</b>,
+<b>Retrieval-Augmented Generation (RAG)</b>,
+and scalable backend technologies.
 </p>
 
 <p align="center">
 
+<<<<<<< HEAD
 <a href="https://kareena0229.github.io/kareena-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
@@ -323,6 +330,8 @@ My contributions include:
 
 <p align="center">
 
+=======
+>>>>>>> 2eba477 (docs: improve GitHub profile README)
 <a href="https://linkedin.com/in/kareena-k-a9b054247">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -339,15 +348,352 @@ My contributions include:
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&width=750&lines=AI%2FML+Developer;Backend+Engineer;Computer+Vision+Developer;Generative+AI+Enthusiast;Open+Source+Contributor"/>
+
+</p>
+
+---
+
+# 💫 About Me
+
+I'm a Computer Science Engineering undergraduate passionate about building practical AI applications that solve real-world problems.
+
+My primary interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🧠 Natural Language Processing
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚙️ Backend Development
+- ☁️ Cloud-native AI Applications
+
+I enjoy taking ideas from research to deployment by combining intelligent models with scalable backend systems.
+
+---
+
+# 🚀 Quick Highlights
+
+- 🎓 B.Tech Computer Science Engineering (Class of 2027)
+- 🤖 AI/ML | Computer Vision | NLP | Backend Development
+- ⚖️ Building **ChargeSheet AI Assistant** — AI-assisted Legal Document Analysis Platform
+- 🌱 Exploring LLMs, RAG Pipelines, LangChain & AI Agents
+- 💻 Solved **400+ DSA problems**
+- 🌍 Global Rank **#235** among **43,500+** GSSoC 2026 participants
+- 🚀 Open to AI/ML & Software Engineering opportunities
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### ⚖️ ChargeSheet AI Assistant
+
+AI-powered legal document analysis platform that extracts, analyzes, and retrieves legal information using OCR, NLP, and Retrieval-Augmented Generation (RAG).
+
+#### ✨ Highlights
+
+- 📄 OCR-based document extraction
+- 🧠 Named Entity Recognition (NER)
+- 📚 RAG-powered semantic search
+- 🌐 Multilingual legal document support
+- ⚡ FastAPI REST APIs
+- 🔍 Intelligent legal information retrieval
+
+#### 🛠️ Tech Stack
+
+`Python` `FastAPI` `PostgreSQL`
+`LangChain` `spaCy`
+`Transformers` `OCR`
+
+🔗 **Repository:** *(Add your GitHub link here)*
+
+</td>
+
+<td width="50%">
+
+### 👁️ VisionSafe AI
+
+Computer Vision based public monitoring system capable of identifying human activities from uploaded videos.
+
+#### ✨ Highlights
+
+- 🎥 Human Activity Detection
+- 🚶 Safe & Unsafe Activity Recognition
+- 📊 Real-time Video Processing
+- ⚡ FastAPI Backend
+- 🤖 AI Inference Pipeline
+
+#### 🛠️ Tech Stack
+
+`Python`
+`YOLOv8`
+`OpenCV`
+`MediaPipe`
+`FastAPI`
+
+🔗 **Repository:** *(Add your GitHub link here)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 JobRight AI Dashboard
+
+Analytics dashboard for evaluating AI agent performance with interactive visualizations.
+
+### Tech Stack
+
+Python • Pandas • Jupyter Notebook • Chart.js
+
+### Features
+
+- Agent Quality Analytics
+- Performance Tracking
+- Interactive Dashboards
+- Data Visualization
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,sql"/>
+
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+**Technologies**
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Retrieval-Augmented Generation (RAG)
+- Hugging Face Transformers
+- LangChain
+- YOLOv8
+- OpenCV
+- MediaPipe
+- Tesseract OCR
+
+---
+
+### ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Global Rank **#235** among **43,500+** GSSoC 2026 participants
+- 💻 Solved **400+ DSA problems** across LeetCode & GFG
+- 📈 LeetCode Contest Rating **1510**
+- 🎓 Successfully completed Infosys Springboard AI Internship
+- 🚀 Qualified for **NEC Basic Track** organized by E-Cell IIT Bombay
+- 📢 Documentation & Social Media Lead at E-Cell, Dumka Engineering College
+- 🏅 GitHub Pull Shark Achievement
+- ⚡ GitHub Quickdraw Achievement
+
+---
+
+# 📊 GitHub Analytics
+
+> ⚠️ **If your GitHub Analytics cards are not loading**, it is usually because the external stats service is temporarily unavailable or rate-limited. Your Markdown is not necessarily wrong. You can still keep this section in your README and it should start rendering again when the service is available.
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=kareena0229&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💼 Experience
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=kareena0229&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="170"
+src="https://streak-stats.demolab.com?user=kareena0229&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareena0229&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+> ⚠️ If these cards don't load immediately, it's usually because the external stats service is temporarily rate-limited or unavailable. Your Markdown can still be correct, and the cards often reappear later. :contentReference[oaicite:2]{index=2}
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## 🤖 AI Intern | Infosys Springboard
+
+**Nov 2025 – Feb 2026**
+
+Worked on **VisionSafe AI**, an AI-powered public monitoring system using Computer Vision.
+
+### Highlights
+
+- Built activity detection pipelines using **YOLOv8**, **OpenCV**, and **MediaPipe**
+- Developed scalable REST APIs with **FastAPI**
+- Integrated AI inference pipelines with backend services
+- Automated end-to-end video processing workflows
+
+---
+
+## ⚙️ Workflow Automation Intern | ExcelR
+
+Designed workflow automation solutions using **n8n**.
+
+### Highlights
+
+- Built workflow automations
+- Integrated third-party REST APIs
+- Created webhook-based automations
+- Automated repetitive business processes
+
+---
+
+## 🌍 Open Source Contributor | GirlScript Summer of Code 2026
+
+Contributed to multiple open-source repositories through feature development, bug fixes, documentation, and UI improvements.
+
+### Highlights
+
+- 🌍 Global Rank **#235**
+- 🌟 20+ Merged Pull Requests
+- 🦈 GitHub Pull Shark Achievement
+- ⚡ GitHub Quickdraw Achievement
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Global Rank **#235** among **43,500+** participants in GSSoC 2026
+- 💻 Solved **400+ DSA Problems**
+- 📈 LeetCode Contest Rating **1510**
+- 🎓 Completed Infosys Springboard AI Internship
+- 🚀 Qualified for **NEC Basic Track** (E-Cell IIT Bombay)
+- 📢 Documentation & Social Media Lead, E-Cell Dumka Engineering College
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 AI Agents
+- 🧠 LangGraph & LangChain
+- 📚 Production RAG Systems
+- ☁️ AWS & Docker
+- 🏗️ Backend System Design
+- 📊 Advanced DSA
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kareena-k-a9b054247">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kareenaan029@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kareena0229">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Kareena_0209">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
 ---
 
-# 📌 Coding Profiles
+# 💻 Coding Profiles
 
 <p align="center">
 
@@ -356,64 +702,94 @@ My contributions include:
 </a>
 
 <a href="https://github.com/kareena0229">
-<img src="https://img.shields.io/badge/Open%20Source-GSSoC%202026-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSSoC%202026-Global%20Rank%20%23235-success?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/kareena0229">
-<img src="https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pull%20Shark-Achievement-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/kareena0229">
-<img src="https://img.shields.io/badge/GitHub-Quickdraw-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quickdraw-Achievement-purple?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# ❤️ Support My Work
+# 🚧 Currently Building
 
-If you like my projects or find them helpful, consider giving them a ⭐ on GitHub.
-
-It motivates me to continue building open-source AI applications and sharing my learning journey.
+- ⚖️ ChargeSheet AI Assistant
+- 🤖 AI Agents using LangGraph & LangChain
+- 📚 Production-ready RAG Applications
+- 🌍 Open Source Projects
 
 ---
 
-# 📈 Profile Summary
+# 🌱 Beyond Coding
 
-- 🤖 AI/ML Developer
-- 💻 Backend Engineer
-- 🌍 Open Source Contributor
-- 🧠 Building AI-powered Applications
-- ⚖️ Legal AI & Computer Vision Enthusiast
-- 🚀 Always Learning & Building
+Outside of coding, I enjoy exploring new AI technologies, participating in open-source programs, building side projects, and continuously learning through real-world applications.
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always excited to collaborate on projects involving:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🧠 NLP & Generative AI
+- ⚙️ Backend Development
+- 🌍 Open Source
+
+Feel free to connect if you're interested in collaborating, discussing ideas, or building impactful software together.
+
+---
+
+# 💡 Fun Facts
+
+- 🚀 I enjoy turning AI ideas into real-world applications.
+- 🌍 I love contributing to open source and collaborating with developers.
+- 📚 I'm always learning something new in AI, Backend Development, or System Design.
+- ☕ Most of my best ideas come while debugging code.
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Contribute to impactful Open Source projects
-- ✅ Build production-ready AI applications
-- ✅ Strengthen Backend & System Design skills
-- ✅ Publish technical blogs
-- ✅ Secure an AI/ML or Software Engineering Internship
-- ✅ Keep solving DSA consistently
+- 🤖 Build production-ready AI applications
+- 🌍 Contribute to impactful Open Source projects
+- 📝 Share technical knowledge through blogs and documentation
+- ☁️ Learn scalable cloud architecture and deployment
+- 💼 Secure an AI/ML or Software Engineering role
 
 ---
 
-# 💬 Favorite Quote
-
-> *"The best way to predict the future is to build it."*
-
----
+# 📈 GitHub Activity
 
 <p align="center">
 
-### Thanks for visiting my profile! 👋
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareena0229&theme=tokyo-night&hide_border=true"/>
 
-I'm always open to collaborating on AI, Machine Learning, Backend Development, and Open Source projects.
+</p>
 
-⭐ If you like my work, consider following me and checking out my repositories.
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kareena0229&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
@@ -421,6 +797,20 @@ I'm always open to collaborating on AI, Machine Learning, Backend Development, a
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4F46E5,100:06B6D4&section=footer"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thank you for visiting my GitHub Profile!
+</h3>
+
+<p align="center">
+
+I enjoy building AI-powered applications, contributing to open source, and solving real-world problems with technology.
+
+If my work interests you, feel free to connect, collaborate, or explore my repositories.
+
+Let's build something meaningful together 🚀
 
 </p>
