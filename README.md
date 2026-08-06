@@ -67,11 +67,21 @@ My interests include:
 - ⚖️ Building **ChargeSheet AI Assistant**
 - 🚀 Open to AI/ML & Software Engineering opportunities
 
-## 🚧 Currently Building
+## 🚀 Currently Building
 
-Alongside my existing AI projects, 🚀 Currently building **DocNexa** — a modern AI-powered PDF workspace with an interactive document editor, advanced PDF tools, and a scalable Next.js architecture designed for intelligent document workflows.
+- 🚀 Currently building **DocNexa** — a modern AI-powered PDF workspace with an interactive document editor, advanced PDF tools, and a scalable Next.js architecture designed for intelligent document workflows.
 
----
+## 🌱 Currently Learning
+
+- Next.js 16
+- TypeScript
+- AI Engineering
+- System Design
+- Full-Stack Development
+
+## 💻 Tech Stack
+
+Next.js • React • TypeScript • Tailwind CSS • FastAPI • Python • PostgreSQL • Firebase • Docker • Git
 
 ---
 
