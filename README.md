@@ -81,7 +81,9 @@ My interests include:
 
 ## 💻 Tech Stack
 
-Next.js • React • TypeScript • Tailwind CSS • FastAPI • Python • PostgreSQL • Firebase • Docker • Git
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,fastapi,flask,postgres,mysql,docker,aws,git,github,linux,vscode"/>
+</p>
 
 ---
 
@@ -239,7 +241,7 @@ Contributed to multiple open-source repositories through feature development, do
 </p>
 
 ---
-
+> Consistently contributing to open source, AI projects, and backend development while continuously learning and building.
 # 📈 Contribution Graph
 
 <p align="center">
@@ -302,8 +304,10 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or build imp
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ Thanks for visiting!
 
-Building intelligent software, contributing to open source, and continuously learning—one project at a time.
+I'm passionate about building AI-powered products, contributing to open source, and solving real-world problems through technology.
+
+Let's build something impactful together 🚀
 
 </p>
