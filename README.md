@@ -75,7 +75,7 @@ My interests include:
 
 - Next.js 16
 - TypeScript
-- AI Engineering
+- AI Engineering & Agentic AI
 - System Design
 - Full-Stack Development
 
