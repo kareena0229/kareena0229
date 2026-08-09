@@ -65,19 +65,20 @@ My interests include:
 - 🦈 GitHub Pull Shark Achievement
 - ⚡ GitHub Quickdraw Achievement
 - ⚖️ Building **ChargeSheet AI Assistant**
+- 📄 Building **DocNexa** — AI-powered PDF workspace for intelligent document workflows
 - 🚀 Open to AI/ML & Software Engineering opportunities
 
 ## 🚀 Currently Building
 
 - 🚀 Currently building **DocNexa** — a modern AI-powered PDF workspace with an interactive document editor, advanced PDF tools, and a scalable Next.js architecture designed for intelligent document workflows.
 
-## 🌱 Currently Learning
+## 🎯 Current Focus
 
-- Next.js 16
-- TypeScript
-- AI Engineering & Agentic AI
-- System Design
-- Full-Stack Development
+- 📄 Building **DocNexa** — an AI-powered PDF workspace
+- 🤖 Exploring Agentic AI and LLM applications
+- 🧠 Improving RAG pipelines and document intelligence
+- ⚙️ Building scalable backend APIs with FastAPI
+- 💻 Strengthening DSA and system design fundamentals
 
 ## 💻 Tech Stack
 
