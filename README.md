@@ -87,6 +87,15 @@ My interests include:
 </p>
 
 ---
+---
+
+## 💡 Key Strengths
+
+- 🤖 Building practical AI/ML applications
+- 📄 AI-powered document intelligence & RAG
+- ⚙️ Backend API development with FastAPI
+- 🧠 Problem solving & Data Structures
+- 🌍 Open-source collaboration
 
 # 🚀 Featured Projects
 
