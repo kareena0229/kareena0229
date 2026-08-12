@@ -97,6 +97,18 @@ My interests include:
 - 🧠 Problem solving & Data Structures
 - 🌍 Open-source collaboration
 
+---
+
+## 🌍 Open Source Focus
+
+I enjoy contributing to open-source projects through:
+
+- ✨ Feature development
+- 🐞 Bug fixing and issue resolution
+- 🎨 UI/UX improvements
+- 📚 Documentation
+- 🤝 Collaborative Git & GitHub workflows
+
 # 🚀 Featured Projects
 
 ## ⚖️ ChargeSheet AI Assistant
