@@ -9,7 +9,7 @@ Building production-ready AI applications using
 <b>Computer Vision</b>,
 <b>Natural Language Processing</b>,
 <b>Retrieval-Augmented Generation (RAG)</b>,
-and scalable backend technologies.
+and scalable backend technologies. 
 </p>
 
 <p align="center">
