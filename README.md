@@ -98,6 +98,13 @@ My interests include:
 - 🌍 Open-source collaboration
 
 ---
+## 🧩 What I Build
+
+- 🤖 AI-powered applications and intelligent workflows
+- 📄 Document intelligence and RAG systems
+- 👁️ Computer Vision solutions
+- ⚙️ Scalable backend APIs
+- 🌍 Open-source tools and developer-focused projects
 
 ## 🌍 Open Source Focus
 
