@@ -105,7 +105,14 @@ My interests include:
 - 👁️ Computer Vision solutions
 - ⚙️ Scalable backend APIs
 - 🌍 Open-source tools and developer-focused projects
+---
 
+## 🔭 Looking Ahead
+
+- 🚀 Turning AI prototypes into production-ready applications
+- 📄 Expanding DocNexa with smarter document workflows
+- 🤖 Exploring agentic AI and LLM-powered systems
+- 🌍 Continuing open-source contributions
 ## 🌍 Open Source Focus
 
 I enjoy contributing to open-source projects through:
