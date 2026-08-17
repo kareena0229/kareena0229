@@ -299,6 +299,15 @@ Contributed to multiple open-source repositories through feature development, do
 
 ---
 
+## 🎯 Areas of Interest
+
+- 🤖 Generative AI & LLM Applications
+- 📄 Document Intelligence & RAG
+- 👁️ Computer Vision
+- ⚙️ Backend & API Development
+- 🏗️ System Design
+- 🌍 Open Source
+
 # 🤝 Connect With Me
 
 <p align="center">
