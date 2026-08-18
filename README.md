@@ -123,7 +123,7 @@ I enjoy contributing to open-source projects through:
 - 📚 Documentation
 - 🤝 Collaborative Git & GitHub workflows
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects 
 
 ## ⚖️ ChargeSheet AI Assistant
 
@@ -140,7 +140,7 @@ AI-powered legal document analysis platform using OCR, NLP and Retrieval-Augment
 - RAG-powered semantic search
 - Multilingual legal document analysis
 - FastAPI backend
-- Structured legal information extraction
+- Structured legal information extraction and processing
 
 ---
 
