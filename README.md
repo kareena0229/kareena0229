@@ -53,7 +53,7 @@ My interests include:
 - 🧠 Natural Language Processing
 - 📚 Retrieval-Augmented Generation (RAG)
 - ⚙️ Backend Development
-- 🌍 Open Source
+- 🌍 Open Source 
 
 ---
 
