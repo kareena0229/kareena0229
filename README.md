@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareena Kumari</h1>
 
 <h3 align="center">
-AI/ML Developer • Backend Engineer • Open Source Contributor
+AI/ML Developer • Backend Engineer • Open Source Contributor 
 </h3>
 
 <p align="center">
