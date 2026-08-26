@@ -50,7 +50,7 @@ My interests include:
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 👁️ Computer Vision
-- 🧠 Natural Language Processing
+- 🧠 Natural Language Processing (NLP)
 - 📚 Retrieval-Augmented Generation (RAG)
 - ⚙️ Backend Development
 - 🌍 Open Source 
