@@ -104,7 +104,7 @@ My interests include:
 - 📄 Document intelligence and RAG systems
 - 👁️ Computer Vision solutions
 - ⚙️ Scalable backend APIs
-- 🌍 Open-source tools and developer-focused projects
+- 🌍 Open-source tools and developer-focused projects 
 ---
 
 ## 🔭 Looking Ahead
