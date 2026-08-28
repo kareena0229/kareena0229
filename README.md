@@ -95,7 +95,7 @@ My interests include:
 - 📄 AI-powered document intelligence & RAG
 - ⚙️ Backend API development with FastAPI
 - 🧠 Problem solving & Data Structures
-- 🌍 Open-source collaboration
+- 🌍 Open-source collaborations
 
 ---
 ## 🧩 What I Build
