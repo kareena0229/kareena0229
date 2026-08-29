@@ -78,7 +78,7 @@ My interests include:
 - 🤖 Exploring Agentic AI and LLM applications
 - 🧠 Improving RAG pipelines and document intelligence
 - ⚙️ Building scalable backend APIs with FastAPI
-- 💻 Strengthening DSA and system design fundamentals
+- 💻 Strengthening DSA and system design fundamentals 
 
 ## 💻 Tech Stack
 
@@ -94,7 +94,7 @@ My interests include:
 - 🤖 Building practical AI/ML applications
 - 📄 AI-powered document intelligence & RAG
 - ⚙️ Backend API development with FastAPI
-- 🧠 Problem solving & Data Structures
+- 🧠 Problem solving & Data Structures 
 - 🌍 Open-source collaborations
 
 ---
