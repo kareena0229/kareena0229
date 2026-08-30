@@ -44,7 +44,7 @@ and scalable backend technologies.
 
 # 💫 About Me
 
-I'm a **Computer Science Engineering undergraduate (Class of 2027)** passionate about building practical AI-powered applications that solve real-world problems.
+I'm a **Computer Science Engineering undergraduate (Class of 2027)** passionate about building practical AI-powered applications that solve real-world problems .
 
 My interests include:
 
@@ -66,7 +66,7 @@ My interests include:
 - ⚡ GitHub Quickdraw Achievement
 - ⚖️ Building **ChargeSheet AI Assistant**
 - 📄 Building **DocNexa** — AI-powered PDF workspace for intelligent document workflows
-- 🚀 Open to AI/ML & Software Engineering opportunities
+- 🚀 Open to AI/ML & Software Engineering opportunities 
 
 ## 🚀 Currently Building
 
